@@ -1,7 +1,7 @@
 # Movie DB
 
 ### Overview
-Movie DB project - 
+Movie DB is powered by a backend API movies database. Movies or series can be searched for and the API returns a response otherwise an error message is displayed. To get more information about the searched movie/series, a single page is provided which can be linked to by clicking the movie/series poster. React Context API is used to manage the state with react-router-dom being used to manage page navigation.
 
 ### How to start
 
